@@ -53,13 +53,13 @@ const Summary = ({ cart }) => {
           and G-CASH Payment for all orders using (mobile #:
           <span>
             <a href="#" className="text-dark">
-                0969-049-2511
+                 0956-4394-827
             </a>
           </span>
           ). Kindly send the screenshot payment via email to{" "}
           <span>
-            <a href="mailto:orders@pogs.ph" className="text-dark">
-              orders@pogs.ph
+            <a href="mailto:order.tarlac@pogs.ph" className="text-dark">
+              order.tarlac@pogs.ph
             </a>{" "}
             otherwise your order will not be proccessed
           </span>

@@ -576,7 +576,7 @@ const Checkout = ({ history }) => {
 
               {shippingMethod === 'flat_rate' ? (
                 <div className="mb-3">
-                  <label htmlFor="address">Deliver to</label>
+                  <label htmlFor="address">Please specify House Number / Street / Zone or Landmark (if available)</label>
                   <input
                     value={values.address}
                     onChange={handleChange}
@@ -615,7 +615,7 @@ const Checkout = ({ history }) => {
               {shippingMethod === 'shipping_by_distance' ? (
                 <div className="mb-3">
                   <div className="d-flex flex-column">
-                    <label htmlFor="address">Deliver to</label>
+                    <label htmlFor="address">Please specify House Number / Street / Zone or Landmark (if available)</label>
                     <Button
                       className="w-50"
                       onClick={(e) => {
@@ -631,7 +631,7 @@ const Checkout = ({ history }) => {
 
               {shippingMethod === 'shipping_by_zone' ? (
                 <div className="mb-3">
-                  <label htmlFor="address">Deliver to</label>
+                  <label htmlFor="address">Please specify House Number / Street / Zone or Landmark (if available)</label>
                   <input
                     value={values.address}
                     onChange={handleChange}
@@ -705,7 +705,7 @@ const Checkout = ({ history }) => {
                         value="gcash"
                         required
                       />{" "}
-                      G-Cash (0969-049-2511)
+                      G-Cash (0956-4394-827)
                     </Label>
                   </FormGroup>
                 </div>
@@ -718,13 +718,13 @@ const Checkout = ({ history }) => {
                   and G-CASH Payment for all orders using (mobile #:
                   <span>
                     <a href="#" className="text-dark">
-                      0969-049-2511
+                      0956-4394-827
                     </a>
                   </span>
                   ). Kindly send the screenshot payment via email to{" "}
                   <span>
-                    <a href="mailto:orders@pogs.ph" className="text-dark">
-                      orders@pogs.ph
+                    <a href="mailto:order.tarlac@pogs.ph" className="text-dark">
+                      order.tarlac@pogs.ph
                     </a>{" "}
                     otherwise your order will not be proccessed
                   </span>

@@ -110,27 +110,42 @@ const CartPage = () => {
               </h5>
               <Col className="pl-0 text-left">
                 <ul className="list-none left-areas">
-                  <li>Cristo Rey</li>
-                  <li>Sta. Lucia</li>
-                  <li>O' Donnell</li>
-                  <li>Aranguren</li>
-                  <li>CubCub</li>
-                  <li>Cut Cut I</li>
-                  <li>Cut Cut II</li>
-                  <li>Dolores</li>
-                  <li>Estrada</li>
+                  <li>Sta cruz</li>
+                  <li>Alvindia</li>
+                  <li>Aguso</li>
+                  <li>Tabane</li>
+                  <li>Salapungan</li>
+                  <li>Tariji</li>
+                  <li>Balibago1</li>
+                  <li>Balibago 2</li>
+                  <li>Baculong</li>
+                  <li>Maliwalo</li>
+                  <li>Calincuan</li>
+                  <li>Maligaya</li>
+                  <li>Matatalaib</li>
+                  <li>San nicolas</li>
+                  <li>Poblacion</li>
+                  <li>San roque</li>
                 </ul>
               </Col>
               <Col className="right-areas">
                 <ul className="list-none">
-                  <li>Lawy</li>
-                  <li>Manga</li>
-                  <li>Manlapig</li>
-                  <li>Sta. Rita</li>
-                  <li>Sto. Domingo I</li>
-                  <li>Sto. Domingo II</li>
-                  <li>Sto. Rosario</li>
-                  <li>Talaga</li>
+                <li>Cut-Cut</li>
+                  <li>San Vicente</li>
+                  <li>San Rafael</li>
+                  <li>San Jose de Urquico</li>
+                  <li>Paraiso</li>
+                  <li>San Miguel</li>
+                  <li>San Pablo</li>
+                  <li>Tibag</li>
+                  <li>Carangian</li>
+                  <li>Molave</li>
+                  <li>San isidro</li>
+                  <li>Ligtasan</li>
+                  <li>Sto Cristo</li>
+                  <li>San Sebastian</li>
+                  <li>Suizo</li>
+                  <li>Panampuna</li>
                 </ul>
               </Col>
             </Col>
@@ -141,9 +156,7 @@ const CartPage = () => {
                   Soon To Be Available In The Following Area
                 </h5>
                 <ul className="list-none">
-                  <li>Sta. Juliana</li>
-                  <li>Maruglu</li>
-                  <li>Bueno</li>
+
                 </ul>
               </Row>
             </Col>
