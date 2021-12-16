@@ -1,0 +1,16 @@
+#firebaseui-auth-container {
+  position: relative;
+  bottom: 120px;
+}
+
+.firebaseui-card-footer {
+  display: none;
+}
+
+.firebaseui-card-actions button {
+  display: block !important;
+}
+
+.auth-row {
+  height: 100vh;
+}

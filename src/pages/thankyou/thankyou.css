@@ -1,0 +1,15 @@
+img.thank-you {
+  height: auto;
+  width: 100%;
+}
+
+.btn-parent-bth {
+  text-align: center;
+  background: #e2f9fb;
+  padding: 25px 25px 100px 25px;
+}
+
+a.btn.btn-bth {
+  width: 25%;
+  padding: 15px;
+}

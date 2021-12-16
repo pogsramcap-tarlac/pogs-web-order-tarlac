@@ -1,0 +1,10 @@
+/* 30-11-2021 */
+
+.cart-notif .row {
+  height: 13rem;
+}
+
+.cart-notif,
+.cart-notif button {
+  background-image: none;
+}
